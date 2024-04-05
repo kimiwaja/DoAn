@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|c:\\users\\tripham\\desktop\\doan\\web\\web\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|c:\\users\\tripham\\desktop\\doan\\web\\web\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|c:\\users\\tripham\\desktop\\doan\\web\\web\\views\\sanpham\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|solutionrelative:web\\views\\sanpham\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|c:\\users\\tripham\\desktop\\doan\\web\\web\\views\\shared\\_danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|c:\\users\\tripham\\desktop\\doan\\web\\web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|c:\\users\\tripham\\desktop\\doan\\web\\web\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|solutionrelative:web\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|c:\\users\\tripham\\desktop\\doan\\web\\web\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|solutionrelative:web\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|c:\\users\\tripham\\desktop\\doan\\web\\web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|solutionrelative:web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|c:\\users\\tripham\\desktop\\doan\\web\\web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|solutionrelative:web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|c:\\users\\tripham\\desktop\\doan\\web\\web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|solutionrelative:web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|c:\\users\\tripham\\desktop\\doan\\web\\web\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|solutionrelative:web\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|c:\\users\\tripham\\desktop\\doan\\web\\web\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|solutionrelative:web\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|c:\\users\\tripham\\desktop\\doan\\web\\web\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26884A98-8B6E-4C6A-BCAC-46BD4D1EEF50}|Web\\Web.csproj|solutionrelative:web\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Views\\SanPham\\Search.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\SanPham\\Search.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Views\\SanPham\\Search.cshtml",
+              "RelativeToolTip": "Web\\Views\\SanPham\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T09:15:02.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "Web\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T15:39:48.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T07:42:43.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T07:40:04.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "Web\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:41:11.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T07:41:48.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T16:59:23.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_DanhSachSP.cshtml",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Views\\Shared\\_DanhSachSP.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_DanhSachSP.cshtml",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Views\\Shared\\_DanhSachSP.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_DanhSachSP.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T07:49:57.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:41:52.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Web\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\wwwroot\\index.html",
+              "RelativeToolTip": "Web\\wwwroot\\index.html",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-04T17:25:49.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuLoaiViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "Web\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeToolTip": "Web\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:00:29.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Loai.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Data\\Loai.cs",
+              "RelativeDocumentMoniker": "Web\\Data\\Loai.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Data\\Loai.cs",
+              "RelativeToolTip": "Web\\Data\\Loai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:52:50.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "C:\\Users\\TriPham\\Desktop\\DoAN\\Web\\Web\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "Web\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:41:25.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

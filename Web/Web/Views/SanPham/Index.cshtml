@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Web.ViewModels.SanPhamVM>
+@{
+    ViewData["Title"] = "Index";
+  
+}
+<!-- Navbar Start -->
+<div class="container-fluid p-0 nav-bar">
+    <nav class="navbar navbar-expand-lg bg-none navbar-dark py-3">
+        <a href="index.html" class="navbar-brand px-lg-4 m-0">
+            <h1 class="m-0 display-4 text-uppercase text-white">Coffe Hog Đào</h1>
+        </a>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+            <div class="navbar-nav ml-auto p-4">
+                <a href="@Url.Action("Index", "Home")" class="nav-item nav-link active">Trang chủ</a>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Menu</a>
+                    <div class="dropdown-menu text-capitalize">
+                        @await Component.InvokeAsync("MenuLoai")
+                    </div>
+                </div>
+                <a href="contact.html" class="nav-item nav-link">Đăng nhập</a>
+            </div>
+
+        </div>
+    </nav>
+</div>
+<!-- Navbar End -->
+<!-- Menu Start -->
+<div class="container-fluid pt-5">
+    <div class="container">
+        <div class="section-title">
+            <h4 class="text-primary text-uppercase" style="letter-spacing: 5px;">Menu</h4>
+            <form class="form-inline my-2 my-lg-0" action="@Url.Action("Search", "SanPham")" method="get">
+                <input class="form-control mr-sm-2" type="search" placeholder="Tìm kiếm" aria-label="Search" name="query">
+                <button type="submit" class="btn btn-outline-warning">Tìm kiếm</button>
+            </form>
+        </div>
+
+
+
+        <div class="row">
+            <!-- Bắt đầu một hàng mới -->
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-6 mb-4">
+                    <!-- Mỗi sản phẩm chiếm 6 cột trên màn hình lớn và có khoảng cách dưới -->
+                    <div class="card">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                <img class="card-img" src="~/Hinh/SanPham/@item.Hinh" alt="">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">@item.TenSP</h5>
+                                    <!-- Các thông tin khác của sản phẩm -->
+                                    <h5 class="card-price">@item.DonGia</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div> <!-- Kết thúc hàng -->
+
+    </div>
+</div>
+<!-- Menu End -->

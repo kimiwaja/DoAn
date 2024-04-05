@@ -1,0 +1,7 @@
+﻿@model IEnumerable<Web.ViewModels.MenuLoaiVM>
+
+
+@foreach (var item in Model)
+{
+    <a asp-controller="SanPham" asp-action="Index" asp-route-loai="@item.MaLoai" class="dropdown-item">@item.TenLoai</a>
+}
